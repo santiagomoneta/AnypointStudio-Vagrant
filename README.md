@@ -9,7 +9,7 @@ Pre requisites:
 
 How to run:
 - Download this repo
-- from a terminal, navigate to the projects folder and run the command `vagrant up`
+- From a terminal, navigate to the projects folder and run the command `vagrant up`
 
 **To-Do:**
 - Include terminal to favorites

@@ -3,7 +3,7 @@
 **Goal:**
 from a single command, create a ubuntu linux virtual machine ready to go with the basic applications.
 
-![enter image description here](https://i.imgur.com/rH5VVl2.jpg)
+![enter image description here](https://i.imgur.com/xpMpFkY.jpg)
 
 **Pre requisites:**
 - Have [Vagrant](https://www.vagrantup.com/downloads.html) installed

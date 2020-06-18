@@ -25,5 +25,7 @@ from a single command, create a ubuntu linux virtual machine ready to go with th
 - Test on Windows host (Currently testing on MacOS)
 - Terminal font is weird, need to script to use a specific font to Fix
 - Create shortcut for Studio
-- script to change the wallpaper
+- Script to change the wallpaper
+- Setup screen resolution during the provision
+- Add apps to the favorites panel
 - Install more apps (why not right?)

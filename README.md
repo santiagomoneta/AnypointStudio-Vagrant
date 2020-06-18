@@ -16,6 +16,7 @@ from a single command, create a ubuntu linux virtual machine ready to go with th
 
 **What is included?:**
 - Base OS
+- net-tools
 - maven
 - OpenJDK 8 (by default install the latest version)
 - wget

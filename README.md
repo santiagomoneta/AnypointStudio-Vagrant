@@ -3,6 +3,8 @@
 **Goal:**
 from a single command, create a ubuntu linux virtual machine ready to go with the basic applications.
 
+![enter image description here](https://i.imgur.com/rH5VVl2.jpg)
+
 **Pre requisites:**
 - Have [Vagrant](https://www.vagrantup.com/downloads.html) installed
 - Have [Virtualbox and the extension pack](https://www.virtualbox.org/wiki/Downloads) installed
